@@ -1,4 +1,4 @@
-# 🟣myshell-unix_-OS-Final-Project-
+# 📌myshell-unix_-OS-Final-Project-
 
 This project is a simple UNIX command-line shell developed in C as part of an
 Operating Systems course.
